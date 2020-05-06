@@ -1,12 +1,10 @@
 <!-- .slide: data-state="title" -->
 
-# RayVeal
+# Grow Your Influence
 
-## Opinionated Reveal.js
+## Community on LinkedIn
 
-A markdown first presentation framework. Based on reveal.js with preinstalled plugins, a dash of Bootstrap and sweet extras.
-
-<a class="btn btn-lg btn-info text-white mr-3" href="https://github.com/planetoftheweb/rayveal">Github Repo</a>
+<a class="btn btn-lg btn-info text-white mr-3" href="https://linkedin.com/in/planetoftheweb">linkedin.com/in/planetoftheweb</a>
 
 <div class="small mt-4"><span class="badge badge-light mr-1 ml-2">&larr; &rarr;</span> navigate
 <span class="badge badge-light mr-1 ml-2">t</span>toolbar
@@ -15,303 +13,290 @@ A markdown first presentation framework. Based on reveal.js with preinstalled pl
 
 ---
 
-<!-- .slide: data-state="title" class="bg-dark text-warning" -->
+# Who is Ray
 
-# Features
+- Senior Staff Instructor
+- 4yrs - LDC, 5yrs LinkedIn
+- **10,437** Followers LinkedIn
+- **7,362** Followers Twitter
 
----
+> > Author Notes:
 
-# 100% Markdown
+Like Walt, I'm a Senior Staff Instructor for LinkedIn primarily focusing on Full Stack Development.
 
-- Assumes you use markdown to create slides. The `index.html` file points to a markdown file in `build/slides/demo.md`.
-- It does whatever [reveal.js](https://github.com/hakimel/reveal.js) can.
+Roughly four years with Lynda.com until it was purchased by LinkedIn and 5 years with LinkedIn. Before I started at LinkedIn, like many people the only thing I used LinkedIn for was my online resume.
 
----
+About a year ago, I noticed that my follower count on LinkedIn surpassed my followers on Twitter. Now part of that is because I author lots of courses on LinkedIn, but that was somewhat surprising.
 
-# Persistent Navigation
+Over the last year I've been working to increase on my engagement within LinkedIn and now I almost solely post from LinkedIn to twitter and it has become my primary social platform.
 
-<small>The persistent navigation bar at the bottom is on every page. It will disappear after 5 seconds. You can also toggle it by hitting the `t` key. Look for the following code on `index.html`</small>
+I'll be honest, it's not something I really wanted to do, but the fact that we got purchased made me take a look and I found that I preferred posting on LinkedIn Better.
 
-```html
-<footer class="footer">
-  <div class="persistent">
-    <strong>Slides:</strong>
-    <a href="https://bit.ly/thenext50">bit.ly/thenext50</a> &bull;
-    <strong>Contact:</strong>
-    <a href="https://www.linkedin.com/in/planetoftheweb">LinkedIn</a> |
-    <a href="https://www.linkedin.com/learning/instructors/ray-villalobos">courses</a>
-    | <a href="https://twitter.com/planetoftheweb">@planetoftheweb</a> |
-    <a href="https://github.com/planetoftheweb">github</a>
-  </div>
-  <div class="smaller">Use arrows to navigate, esc for overview</div>
-</footer>
-```
-
----
-
-# Multiple slides
-
-You can use multiple markdown files within the same project, just add a file in the `build/slides` folder.
-
-<small>Press the `m` key to show [sidebar menu](https://github.com/denehyg/reveal.js-menu). You can use it to jump to different slideshows. This list is created using the gulp build process, which generates an `index.json` file for you as you add more markdown files to the `docs/slides` folder.</small>
-
----
-
-# Author Notes
-
-You can't see them, but they're there. Speaker notes lets you create notes that only you see. Press the `s`. I also use them so that I know what I'm going to say when using simpler bullets.
-
-> > Author Notes: Author notes are similar to markdown blockquotes, but you use double greater than signs. They won't appear on your slides, so I personally use them as reading notes, but Reveal.js has a presentation mode that allows you to see them in your slides.
-
----
-
-# Fragments
-
-1. Are on by default
-1. You can write HTML lists<br><small>(If you don't want them)</small>
+So let's get into some tips.
 
 ---
 
 <!-- .slide: data-state="title" class="bg-dark text-warning" -->
 
-# Templates
+# Social Media
 
 ---
 
-<!-- .slide: data-state="hasicon" -->
+# Establish a Target Audience
 
-# <i class="fab fa-html5"></i> Has Icon Template
+- LinkedIn is **different**
+- Who would want to **hear from you**?
+- What would they **want to hear**?
 
-- Template with an icon
-- Preloading [font-awesome](https://fontawesome.com) <small>by Dave Gandy</small>
-- &lt;!-- .slide: data-state="hasicon" --&gt;
+> > Author Notes:
 
----
+My first tip is to think about who your target audience is before you embark on building your audience.
 
-<!-- .slide: data-state="circles" -->
+LinkedIn is different from other social media platforms because it's a social platform for business professionals. There's not a lot of cat photos. Everything people post on LinkedIn becomes part of your professional profile, so people are a lot tamer on LinkedIn. Someone looking to hire you can easily find what you've posted. People tend to think about LinkedIn posts as part of your resume.
 
-# Circles Template
+The primary way people grow their social influence is by posting content, so think about who would want to hear from you so that you can serve them that type of content. By this I mean what their job titles is, where they work, where they live.
 
-- one
-- two
-- three
-- four
-- five
-- just list items
-
-&lt;!-- .slide: data-state="circles" --&gt;
+This is one of the advantages that LinkedIn gives you. On every post if you click on the views, you get a bit of an analysis of the engagement for the post. That sort of gives you a clear idea and let's your refine who your target audience is.
 
 ---
 
-<!-- .slide: data-state="textonimage" data-background-image="images/photo.jpg" -->
+# Generic Social Media Tips
 
-# Background with an image
+- Post **often**
+- Hashtags
+- Mentions
 
-And some text, small shadow...
+> > Author Notes:
 
-<small>&lt;!-- .slide: data-background-image="images/photo.jpg" --&gt;</small>
+Let's go over general social media tips that are probably obvious to some of you, but can be a bit different on LinkedIn.
 
----
+First is that you should post content often. I started posting something relevant twice a day, but I think once a day is just as good. Just make sure you post meaninful content.
 
-# Background Video
+Make sure you use hastags. Hashtags are super powerful because they help you aggregate content. Now hashtags ON LinkedIn are a little better than on Twitter because people can subscribe to your hashtags and they get notifications. They also appear on your homepage so create a hashtag for your daily posting as well as different hashtags for projects.
 
-<!-- .slide: data-state="textonvideo" data-background-video="images/video.mp4" -->
+For example, I created a hashtag called raybotil (Today I Learned) for all my cool web development topics as well as a hashtag for our live stream called naplivecast. Slowly but surely they'll gain subscribers. Hashtag subscribers are a really high value group. They are people who are highly engaged with your content.
 
-<small>&lt;!-- .slide: data-state="textonvideo" data-background-video="images/video.mp4" --&gt;</small>
+Mentions are also real powerful because they also notify the person your mentioned and it can be a way to multiply your audience since the person you mentioned has a different audience, it might help you gain access to those members.
 
----
-
-<!-- .slide: data-state="title" class="bg-dark text-warning" -->
-
-# Styles & Customization
+**Pro tip**: Here's a pro tip, when you post, if you have added twitter to your profile, you can post to both LinkedIn and twitter at the same time. Now if the person you mention has added twitter to their profile, then their twitter mention will use their twitter @username.
 
 ---
 
-<!-- .slide: data-state="title" class="bg-info" style="background-color: #563C7C" -->
+# LinkedIn's Network
 
-![pow](images/pow.svg)<!-- .element: style="width:80%" -->
+- Connections
+- Followers
+- Customizing
 
-# Customizing<!-- .element: class="text-warning" style="text-shadow: 2px 2px 10px #222" -->
+> > Author Notes:
 
-## slides and elements
+Before we get too deep, let me go over the two types of contats you can make on LinkedIn. The oldest and one most people are familiar with is connections. Connections are a two way link between members. Connections automatically follow each other by default at first, but that can be turned off.
 
-<small>Add bootstrap classes or style attributes to customize.
+The second type of connection is followers. Followers have a one way connection. Followers will see your posts, but you won't see their posts. If your goal is to maximize engagement, you ultimately want the most followers.
 
-Control individual elements using `.element:`.
-
-<small>See how I added an SVG icon and the shadow on the headline?
-<a class="btn btn-warning mt-3" href="slides/demo.md">see markdown</a>
-
-</small>
+LinkedIn is probably the most customizable network in terms of preferences. You can change your default connection type, and move users from connections to followers. Once you have enough connections, your feed will get unruly, so you can unfollow people, while keeping the connection. If you unfollow someone they should still be able to see your posts, but you won't see theirs.
 
 ---
 
-# Icon Samples <a class="btn btn-danger btn-lg text-white fab fa-codepen" href="https://codepen.io/planetoftheweb/pen/oJOwYb"></a> <a class="btn btn-primary btn-lg text-white fab fa-linkedin-in" href="https://www.linkedin.com/learning/instructors/ray-villalobos"></a> <a class="btn btn-success btn-lg text-white fab fa-github-alt" href="https://github.com/planetoftheweb"></a>
+# LinkedIn Content Types
 
-- Look at the title
-- I added some icons from [font-awesome](https://fontawesome.com)
+- Articles
+- Posts
+- Polls
+- Comments
+- Groups
+- LiveCasts
 
----
+> > Author Notes:
 
-# Inline Code Styles
+There are lots of different types of contents you can create on LinkedIn.
 
-- [Bootstrap](https://getbootstrap.com)-like colors for inline code
-- <code class="code-primary">primary</code> <code class="code-success">success</code> <code class="code-info">info</code> <code class="code-warning">warning</code> <code class="code-danger">danger</code>
+First are articles. These are long form content like what you'd post on Medium or Wordpress. These aren't my favorite types of posts because they take a long time to write and are harder to get engagement on.
 
-- <a class="tooltip" href="#">`tooltips`<span>For overlay explanations</span></a> on rollover
-- Always content-editable
+Posts are short form posts. Although they're short, they are much longer than Twitter. I think you can make a post about 1200 characters. Better yet, you can edit a post after you wrote it.
 
----
+Posts can include media like images or video and having those will also help you get more engagement. People engage more with posts that have photos or videos.
 
-# Inline Code in Lists
+Polls are a new feature where you can take polls. This is a brand new feature and engagement here will depend on how well you've built your audience, so making polls isn't necessarily the best way to create engagement.
 
-Automatically colorize on second level lists<br>
+You can also comment on existing posts, and this is one of the things I like about LinkedIn Posts are threaded super nicely way better than on twitter. Commenting on people's posts will also go in your activity.
 
-- `sample`
-  - NUM: `one` `two` `three`
-  - NUM: `four` `five` `six`
-  - NUM: `seven` `eight` `nine`
-  - NUM: `ten` `eleven` `twelve`
-  - NUM: `thirteen` `fourteen` `fifteen`
+Another special place you can post is on Groups. They're sort of like message boards. Groups can be a great place to find people who you might want to connect to that are not on your current connection list. They're like posts, they just go in a special pace.
 
----
+You can create your own groups, but they it takes time for them to gain critical mass, so it's often better to participate in an existing group.
 
-# Here's some code
-
-```javascript
-const electron = require("electron");
-const BrowserWindow = electron.BrowserWindow;
-const app = electron.app;
-
-app.on("ready", function() {
-  const appWindow;
-  appWindow = new BrowserWindow();
-  appWindow.loadURL("https://raybo.org");
-});
-```
-
-<!-- .element: data-trim="true" contenteditable="true" -->
-
-Syntax highlighted, editable by default
+The last content type is the livestream. A new and growing content type. More on this later, but it's what it seems a way to stream video to LinkedIn.
 
 ---
 
-# Embedded Code
+# What to Post
 
-<small>Here's a sample of an embeded CodePen. Use an iframe.</small>
+- Add **value**
+- News
+- Some **opinion**
+- Self **promotion**
+- Where to find?
 
-<iframe height='300' scrolling='no' title='Bootstrap 4' src='//codepen.io/planetoftheweb/embed/bgdOzX/?height=300&theme-id=27192&default-tab=html,result&embed-version=2&editable=true' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%; min-height: 50vh;'>See the Pen <a href='https://codepen.io/planetoftheweb/pen/bgdOzX/'>Bootstrap 4</a> by Ray Villalobos (<a href='https://codepen.io/planetoftheweb'>@planetoftheweb</a>) on <a href='https://codepen.io'>CodePen</a>.
-</iframe>
+> > Author Notes:
+
+The most important thing about what to post is that you should create posts that add value to your target audience. Post things you think the audience will appreciate and engage with.
+
+Something else that works well for me is to post news or information I've heard that would be relevant to my audience. A new release of something, etc.
+
+Often you can post about your opinions on current topics. That can really improve engagement, but remember that whatever opinon you post about goes on your profile, so make sure it's something you wouldn't mind putting on your resume.
+
+It's OK to post to promote things that you're doing. If you've targeted the right people, they will want to know about your releases. For example, I always mention when a new course is out and it usually gathers more engagement than other posts.
+
+What if you have nothing to write about? My approach is to subscribe to feeds and newsletters and spend at least one day a week perousing them and copying links to a notepad. I use something called Notion. Then about once a day, if I haven't posted anything, I can go to my notepad and get something from there.
 
 ---
 
-# Tables
+# Growing your audience
 
-Here's what a table looks like. Use the <a href="https://www.tablesgenerator.com/markdown_tables">tables generator</a> to help you write the markdown.
+- Post **often**
+- Make **connections**
+- **High value** targets
+- Engagement: **True North Metric**
 
-|                  | Extra small <small>< 768px</small> | Small <small> ≥ 768px</small> | Medium <small>≥992px</small> | Large <small>≥1200px</small> |
-| ---------------- | ---------------------------------- | ----------------------------- | ---------------------------- | ---------------------------- |
-| **Container**    | Auto                               | 750px                         | 970px                        | 1170px                       |
-| **Size**         | .col-xs-                           | .col-sm-                      | .col-md-                     | .col-lg-                     |
-| **Column width** | Auto                               | ~62px                         | ~81px                        | ~97px                        |
+> > Author Notes:
+
+There's basically two ways to grow your audience significantly. The first is to just post often, following the guidelines I've given you...hastags, mentions, media, value.
+
+The next best way to gain followers is to make connections. Once someone accepts a connection request, they automatically become your follower, so they see your posts. Making connections therefore can be an effective way to gain more followers.
+
+But be mindul that getting a high quantity of followers isn't necessarily what you want. You want to follow High Value Targets. People who are in your target audience who preferrably engage with your content.
+
+Where do you find these? First, the easiest place to find generic followers is through the network tab. The network tab is going to make recommendations of who to follow for you.
+
+You should pre-qualify these recommendations because they're computer based, so that they are in your target audience. For example, I started following software engineers who work in my company.
+
+But there are better places you can go. If you're using hashtags and mentions people will often comment on content from others who are not in their network. When you connect with people who have already engaged with your content, chances are that they're going to find the rest of your content interesting.
+
+People who are on groups that are structured around your target audience might also be good people to follow. The fact that someone has properly engaged with content means they will be more likely to engage in the future.
+
+Ultimately your goal isn't necessarily to gain followers, but to improve engagement. This is what we call a True North metric. If you want to be an influencer, then engagement is what you're looking for.
 
 ---
 
 <!-- .slide: data-state="title" class="bg-dark text-warning" -->
 
-# Bootstrap Support
+# Live Streams
+
+> > Author Notes:
+
+Live Streaming allows you to connect with your network in real-time. It's a great way to engage with your community so your success will depend on the amount of followers you already have.
+
+It's a great way to build deeper connections. It will help you build an audience but I wouldn't recommend it if you don't already have one.
 
 ---
 
-# Bootstrap Cards
+# Getting Started
 
-<p class="small">Some styles from the [bootstrap framework](https://getbootstrap.com/) can be real useful...like bootstrap cards. Combine them with reveal fragment transitions.</p>
+- Apply: [here](https://www.linkedin.com/help/linkedin/ask/lv-app)
+- Email: _LilInstructors@linkedin.com_
+  - Subject: MVP Live Stream Application
+- Read [this](https://www.linkedin.com/help/linkedin/answer/100225)
+- Get a Streaming solution
 
-<div class="card-deck mx-5">
-<div class="card fragment fade-in-then-semi-out">
-  <img src="images/photo.jpg" class="card-img-top img-fluid" alt="Sample Image">
-  <div class="card-body">
-    <h4 class="card-title">Card title</h4>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-primary text-white">Go somewhere</a>
-  </div>
-</div>
-<div class="card fragment fade-in-then-semi-out">
-  <img src="images/photo.jpg" class="card-img-top  img-fluid" alt="Sample Image">
-  <div class="card-body">
-    <h4 class="card-title">Card title</h4>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-primary text-white">Go somewhere</a>
-  </div>
-</div>
-<div class="card fragment fade-in-then-semi-out">
-  <img src="images/photo.jpg" class="card-img-top  img-fluid" alt="Sample Image">
-  <div class="card-body">
-    <h4 class="card-title">Card title</h4>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-primary text-white">Go somewhere</a>
-  </div>
-</div>
-</div>
----
+> > Author Notes:
 
-# Stages of a project
+To get started fill out this application. Getting accepted isn't guaranteed. The applications will get filtered to make sure that the streams offer high quality content, so take that into account when you fil them.
 
-<p class="small">List groups are another nice component you can use.<br>Here's the classic six stages of a project: </p>
-
-<ul class="list-group">
-  <li class="list-group-item fragment fade-down"><i class="far fa-smile"></i> Enthusiasm</li>
-  <li class="list-group-item fragment fade-down">Disillusionment</li>
-  <li class="list-group-item  d-flex justify-content-between align-items-center fragment fade-down">Panic <span class="badge badge-danger badge-pill"><i class="fas fa-star text-white"></i></span>
-  </li>
-  <li class="list-group-item fragment fade-down">
-    Search for the guilty
-  </li>
-  <li class="list-group-item fragment fade-down">
-    Punishment of the innocent
-  </li>
-  <li class="list-group-item fragment fade-in-then-semi-out">
-    Praise for the non-participants
-  </li>
-</ul>
+After you fill this out, send an email to the address here. Include your email and your member page.
 
 ---
 
-# Alerts
+# General Rules
 
-<div class="mx-5">
-  <div class="alert alert-danger fragment">
-    <h2 class="alert-heading">Danger Will Robinson</h2>
-    <hr>
-    <p>A few adjustments to other Bootstrap components like alerts, can yield some pretty cool layouts for very little markup.</p>
-  </div>
+- No selling or promotional
+- No pre-recorded content
+- Not <10 min >4 hrs
+- Avoid sponsor logos
+- No long "starting soon" screens.
+- No unprofessional streams
 
-  <div class="alert alert-success fragment">
-    <p>The alert contextual colors will also work here, so go nuts with these styles.</p>
-  </div>
-</div>
+> > Author Notes:
 
----
-
-<!-- .slide: data-state="title" class="bg-dark text-warning" -->
-
-# Installation
-
----
-
-# Installing
-
-1. Grab/Fork from [repo](http://github.com/planetoftheweb/rayveal)
-1. `build` folder has presentation
-1. `build/slides/demo.md` subfolder has sample markdown
-1. `slides/index.json` has a list of presentations (optional)
+No selling or promotional streams.
+No pre-recorded content. All streams should be live and happening in real time, or you may confuse members and potentially betray their trust.
+No live streams shorter than 10 to 15 minutes because there won’t be enough time for the audience to increase and interact. You can share shorter videos from your homepage.
+No meta streams. Avoid talking about how to use LinkedIn on LinkedIn.
+Avoid sponsor logos that dominate the video. If you must use sponsor graphics, keep them small.
+No long “starting soon” screens. Don’t keep your audience waiting for more than one or two minutes.
+No unprofessional streams. All live content is publicly visible and should be appropriate for a LinkedIn audience.
 
 ---
 
-# Running locally
+# Platforms Supported
 
-1. Run `$ npm install` from your terminal
-1. Edit `build/slides/demo.md` or add `*.md files`
-1. Run `$ npm start` from your terminal
-1. Generates the `build/slides/index.json` file (index)
-1. Creates a live reload server
+- [Socialive](https://www.socialive.us/), [Restream.io](https://restream.io/), [Wirecast](https://www.telestream.net/wirecast/overview.htm?utm_campaign=partners&utm_source=www.linkedin.com&utm_medium=text_link), <br>[Switcher Studio](https://www.switcherstudio.com/), [Wowza](https://www.wowza.com/), [StreamYard](https://streamyard.com/)<br>[Brandlive](https://www.brand.live/), [Easy Live](https://goeasylive.com/), [Vimeo](https://vimeo.com/enterprise), [Live U](https://www.liveu.tv/)
+- No OBS support
+- We use [StreamYard](https://streamyard.com/) on [#naplivecast](https://www.linkedin.com/feed/hashtag/naplivecast/)
+
+> > Author Notes:
+
+Here are platforms currently supported. Some are iOS only and some can be pricey, however, they keep on adding new solutions.
+
+There's no OBS support currently, I'm not sure if that will be supported in the future.
+
+---
+
+# Prepare for the Show
+
+- Have a theme
+- Establish a schedule
+- Consider partnering
+- Make a Schedule
+- Do a rundown sheet
+
+> > Author Notes:
+
+Here's some tips of what to do before you run the first show.
+
+Make sure you come up with a theme, this is like your target audience, so think about what the focus will be.
+
+Running a live stream can be stressful if you plan to do something other than just talk to the camera, so consider partnering up with someone and share some of the duties.
+
+Make a schedule of when you want to stream. We stream weekly on wednesdays 3pm PST, Noon Pacific. Remember there is more than one coast. Have a spreadsheet where you can write down your themes each week, guests.
+
+If you're timing your broadcast consider a rundown sheet, which outlines how you plan to spend your time during the broadcast. Assign who is going to do what during the podcast. Who will host, who will answer questions, who manages the streaming, etc.
+
+---
+
+# Prepare for the Show
+
+- Title, Description, Thumbnail
+- Promote the show
+- Hashtags, mentions
+- Meet 15 mins early
+- Episode 0
+
+> > Author Notes:
+
+Prepare a Title of each show. Watch your naming. Don't start with the name or the episode of the podcast, but start with the title of the show, just in case things will get cropped up.
+
+You'll also need a description of the show as well as a thumbnail. Since posts with photos perform ready, make sure you have a thumbnail ready a few days before the show. Make yourself a template.
+
+Promote the show a day or two before the show by writing a post or two. When you create the post, make sure you add a show hashtag so people can subscribe to that and get notified. People who follow the owner of the stream will get notified when the show starts.
+
+Make sure you mention everyone in the show so that it shows up in their streams.
+
+Meet at least 15 minutes early to make sure connections are solid and working.
+
+Consider starting out with an Episode 0 to get used to the software.
+
+---
+
+# The Stream
+
+- Be authentic and engaged
+- Ask questions
+- Meet afterwards
+
+> > Author Notes:
+
+Try to be positive and engaged with your audience. If you're working with someone else, make sure you are asking them questions. Try to think of questions the audience might have even if you already know the answer. Try offering different points of view.
+
+Ask people watching the show questions. When you're not talking, look at the live stream and try to engage with the audience. Do this at least after the show to encourage people to come back.
+
+Meet afterwards for a few minutes to discuss how to make things better next time.
