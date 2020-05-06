@@ -300,3 +300,25 @@ Try to be positive and engaged with your audience. If you're working with someon
 Ask people watching the show questions. When you're not talking, look at the live stream and try to engage with the audience. Do this at least after the show to encourage people to come back.
 
 Meet afterwards for a few minutes to discuss how to make things better next time.
+
+---
+
+# Why StreamYard
+
+- Six People
+- Free/Multiple Destinations
+- Overlays, Banners
+- Branding
+
+> > Author Notes:
+> > We love StreamYard because it's super easy.
+
+You can stream with up to six people at the same time.
+
+There's a few version for up to 20 hours/months and branding.
+
+With the paid plans you can stream to two destinations or up to 5 destinations
+
+It has overlays, banners, you can play video clips.
+
+You have more control over your branding.
