@@ -311,7 +311,8 @@ Meet afterwards for a few minutes to discuss how to make things better next time
 - Branding
 
 > > Author Notes:
-> > We love StreamYard because it's super easy.
+
+We love StreamYard because it's super easy.
 
 You can stream with up to six people at the same time.
 
